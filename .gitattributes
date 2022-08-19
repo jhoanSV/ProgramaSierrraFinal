@@ -1,0 +1,5 @@
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.suo filter=lfs diff=lfs merge=lfs -text
+*.lde filter=lfs diff=lfs merge=lfs -text
+*.lde-shm filter=lfs diff=lfs merge=lfs -text
+*.vb filter=lfs diff=lfs merge=lfs -text
