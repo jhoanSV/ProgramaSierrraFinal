@@ -26,7 +26,7 @@
     <UpdateRequired>true</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
     <MinimumRequiredVersion>1.0.0.5</MinimumRequiredVersion>
-    <ApplicationRevision>52</ApplicationRevision>
+    <ApplicationRevision>55</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -238,6 +238,12 @@
     <Compile Include="Proovedores.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Rutasvb.Designer.vb">
+      <DependentUpon>Rutasvb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Rutasvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="VerificarAlistamiento.Designer.vb">
       <DependentUpon>VerificarAlistamiento.vb</DependentUpon>
     </Compile>
@@ -301,6 +307,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Proovedores.resx">
       <DependentUpon>Proovedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rutasvb.resx">
+      <DependentUpon>Rutasvb.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="VerificarAlistamiento.resx">
       <DependentUpon>VerificarAlistamiento.vb</DependentUpon>

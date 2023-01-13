@@ -247,3 +247,4 @@ C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritor
 C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritorioFinal\ProgramaSierrraFinal\WindowsApp1\obj\Release\WindowsApp1.exe
 C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritorioFinal\ProgramaSierrraFinal\WindowsApp1\obj\Release\WindowsApp1.xml
 C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritorioFinal\ProgramaSierrraFinal\WindowsApp1\obj\Release\WindowsApp1.pdb
+C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritorioFinal\ProgramaSierrraFinal\WindowsApp1\obj\Release\WindowsApp1.Rutasvb.resources
