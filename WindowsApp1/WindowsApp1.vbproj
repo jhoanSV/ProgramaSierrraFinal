@@ -26,7 +26,7 @@
     <UpdateRequired>true</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
     <MinimumRequiredVersion>1.0.0.5</MinimumRequiredVersion>
-    <ApplicationRevision>56</ApplicationRevision>
+    <ApplicationRevision>58</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -118,7 +118,6 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Actualizar.vb" />
     <Compile Include="BuscarEnListaDePrecios.Designer.vb">
       <DependentUpon>BuscarEnListaDePrecios.vb</DependentUpon>
     </Compile>
@@ -150,6 +149,7 @@
     <Compile Include="Configuracion.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Consultas.vb" />
     <Compile Include="DGVaExcel.vb" />
     <Compile Include="Estudios.Designer.vb">
       <DependentUpon>Estudios.vb</DependentUpon>
@@ -175,7 +175,6 @@
     <Compile Include="FacturasDeVentas.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FiltrosDeTablas.vb" />
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -197,7 +196,7 @@
     </Compile>
     <Compile Include="Funciones.vb" />
     <Compile Include="FuncionesDeMySql.vb" />
-    <Compile Include="Importar.vb" />
+    <Compile Include="FuncionesExcel.vb" />
     <Compile Include="ListaDeAlistarPelidos.Designer.vb">
       <DependentUpon>ListaDeAlistarPelidos.vb</DependentUpon>
     </Compile>
@@ -216,7 +215,6 @@
     <Compile Include="listadeprecios.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="LlenarConProductos.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -238,6 +236,7 @@
     <Compile Include="Proovedores.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="RutasInternas.vb" />
     <Compile Include="Rutasvb.Designer.vb">
       <DependentUpon>Rutasvb.vb</DependentUpon>
     </Compile>
