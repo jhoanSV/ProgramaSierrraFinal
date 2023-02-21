@@ -26,7 +26,7 @@
     <UpdateRequired>true</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
     <MinimumRequiredVersion>1.0.0.5</MinimumRequiredVersion>
-    <ApplicationRevision>63</ApplicationRevision>
+    <ApplicationRevision>69</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -398,6 +398,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="LLAVE.ico" />
+    <None Include="Resources\imagen factura sierra.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

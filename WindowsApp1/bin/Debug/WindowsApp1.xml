@@ -57,6 +57,11 @@ WindowsApp1
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:WindowsApp1.My.Resources.Resources.imagen_factura_sierra">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:WindowsApp1.My.Resources.Resources.LOGO_FACTURAS">
 <summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
