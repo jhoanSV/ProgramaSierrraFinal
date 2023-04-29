@@ -26,7 +26,7 @@
     <UpdateRequired>true</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
     <MinimumRequiredVersion>1.0.0.5</MinimumRequiredVersion>
-    <ApplicationRevision>75</ApplicationRevision>
+    <ApplicationRevision>76</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -197,6 +197,12 @@
     <Compile Include="Funciones.vb" />
     <Compile Include="FuncionesDeMySql.vb" />
     <Compile Include="FuncionesExcel.vb" />
+    <Compile Include="InicioDeSesion.Designer.vb">
+      <DependentUpon>InicioDeSesion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InicioDeSesion.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="ListaDeAlistarPelidos.Designer.vb">
       <DependentUpon>ListaDeAlistarPelidos.vb</DependentUpon>
     </Compile>
@@ -287,6 +293,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormatoDeAbonosVentas.resx">
       <DependentUpon>FormatoDeAbonosVentas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicioDeSesion.resx">
+      <DependentUpon>InicioDeSesion.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ListaDeAlistarPelidos.resx">
       <DependentUpon>ListaDeAlistarPelidos.vb</DependentUpon>
