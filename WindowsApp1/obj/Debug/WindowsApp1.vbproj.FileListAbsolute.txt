@@ -299,3 +299,4 @@ C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritor
 C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritorioFinal\ProgramaSierrraFinal\WindowsApp1\obj\Debug\WindowsApp1.pdb
 C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritorioFinal\ProgramaSierrraFinal\WindowsApp1\obj\Debug\WindowsApp1.Rutasvb.resources
 C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritorioFinal\ProgramaSierrraFinal\WindowsApp1\obj\Debug\WindowsApp1.InicioDeSesion.resources
+C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritorioFinal\ProgramaSierrraFinal\WindowsApp1\obj\Debug\WindowsApp1.NotasPedido.resources
