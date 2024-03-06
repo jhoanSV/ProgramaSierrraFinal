@@ -300,3 +300,6 @@ C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritor
 C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritorioFinal\ProgramaSierrraFinal\WindowsApp1\obj\Debug\WindowsApp1.Rutasvb.resources
 C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritorioFinal\ProgramaSierrraFinal\WindowsApp1\obj\Debug\WindowsApp1.InicioDeSesion.resources
 C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritorioFinal\ProgramaSierrraFinal\WindowsApp1\obj\Debug\WindowsApp1.NotasPedido.resources
+C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritorioFinal\ProgramaSierrraFinal\WindowsApp1\bin\Debug\BCrypt.Net.dll
+C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritorioFinal\ProgramaSierrraFinal\WindowsApp1\bin\Debug\BCrypt.Net.xml
+C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritorioFinal\ProgramaSierrraFinal\WindowsApp1\obj\Debug\WindowsApp1.AliasPorProducto.resources

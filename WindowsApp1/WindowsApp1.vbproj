@@ -81,6 +81,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="BCrypt.Net, Version=0.1.4141.31969, Culture=neutral, PublicKeyToken=f3bc8f8c31beeb49, processorArchitecture=MSIL">
+      <HintPath>..\packages\BCrypt.Net.0.1.0\lib\net35\BCrypt.Net.dll</HintPath>
+    </Reference>
     <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
     <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
     <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
@@ -118,6 +121,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AliasPorProducto.Designer.vb">
+      <DependentUpon>AliasPorProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AliasPorProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="BuscarEnListaDePrecios.Designer.vb">
       <DependentUpon>BuscarEnListaDePrecios.vb</DependentUpon>
     </Compile>
@@ -150,7 +159,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Consultas.vb" />
+    <Compile Include="Crypt.vb" />
     <Compile Include="DGVaExcel.vb" />
+    <Compile Include="Encriptacion.vb" />
     <Compile Include="Estudios.Designer.vb">
       <DependentUpon>Estudios.vb</DependentUpon>
     </Compile>
@@ -263,6 +274,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="AliasPorProducto.resx">
+      <DependentUpon>AliasPorProducto.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="BuscarEnListaDePrecios.resx">
       <DependentUpon>BuscarEnListaDePrecios.vb</DependentUpon>
     </EmbeddedResource>
