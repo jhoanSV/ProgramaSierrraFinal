@@ -1,0 +1,871 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\verificaralistamiento.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\verificaralistamiento.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\verificaralistamiento.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\verificaralistamiento.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\funcionesdemysql.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\funcionesdemysql.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|c:\\users\\pc\\documents\\proyectosempresa\\programasierrrafinal\\windowsapp1\\apicoltek.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\apicoltek.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\consultas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\consultas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|c:\\users\\pc\\documents\\proyectosempresa\\programasierrrafinal\\windowsapp1\\api.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\api.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|c:\\users\\pc\\documents\\proyectosempresa\\programasierrrafinal\\windowsapp1\\logincoltekform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\logincoltekform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\buscarenlistadeprecios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\buscarenlistadeprecios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|c:\\users\\pc\\documents\\proyectosempresa\\programasierrrafinal\\windowsapp1\\logincoltekform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\logincoltekform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\facturasdeventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\facturasdeventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\buscarenlistadeprecios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\buscarenlistadeprecios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\listadeprecios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\listadeprecios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\listadeprecios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\listadeprecios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\conexiondb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\conexiondb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\iniciodesesion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\iniciodesesion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\clientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\clientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\clientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\clientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\funciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\funciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\formatodeabonosventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\formatodeabonosventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\facturasdeventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\facturasdeventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\iniciodesesion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\iniciodesesion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\rutasvb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\rutasvb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\facturasdecompra.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\facturasdecompra.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\estudios.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\estudios.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\listadealistarpelidos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\listadealistarpelidos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\facturasdecompra.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\facturasdecompra.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\listadependientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\listadependientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\funcionesexcel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\funcionesexcel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\colaboradores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\colaboradores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\estudios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\estudios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\notaspedido.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\notaspedido.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\busquedaproldeprecios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\busquedaproldeprecios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\aliasporproducto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\aliasporproducto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\factura.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\factura.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\encriptacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\encriptacion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\crypt.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\crypt.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\aliasporproducto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\aliasporproducto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\proovedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\proovedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\rutasinternas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\rutasinternas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\proovedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\proovedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\listadealistarpelidos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\listadealistarpelidos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\formatodeabonoscompras.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\formatodeabonoscompras.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\formatodeabonosventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\formatodeabonosventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\formatodeabonoscompras.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\formatodeabonoscompras.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\configuracion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\configuracion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\configuracion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\configuracion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\busquedaproldeprecios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\busquedaproldeprecios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\windowsapp1\\aliasporproducto.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DC0044CA-D64B-4288-8213-B029FFF85F52}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\aliasporproducto.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuncionesDeMySql.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\FuncionesDeMySql.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\FuncionesDeMySql.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\FuncionesDeMySql.vb",
+              "RelativeToolTip": "WindowsApp1\\FuncionesDeMySql.vb",
+              "ViewState": "AQIAALAAAAAAAAAAAAAAwLcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T21:28:53.351Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Conexiondb.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Conexiondb.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Conexiondb.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Conexiondb.vb",
+              "RelativeToolTip": "WindowsApp1\\Conexiondb.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T17:51:31.11Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Consultas.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Consultas.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Consultas.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Consultas.vb",
+              "RelativeToolTip": "WindowsApp1\\Consultas.vb",
+              "ViewState": "AQIAAN0AAAAAAAAAAAA5wPEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T17:51:34.503Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "API.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\API.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\API.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\API.vb",
+              "RelativeToolTip": "WindowsApp1\\API.vb",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-05T17:50:36.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginColtekForm.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\LoginColtekForm.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\LoginColtekForm.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\LoginColtekForm.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\LoginColtekForm.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-05T19:20:55.493Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VerificarAlistamiento.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\VerificarAlistamiento.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\VerificarAlistamiento.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\VerificarAlistamiento.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\VerificarAlistamiento.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T17:50:51.196Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiColtek.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\ApiColtek.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\ApiColtek.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\ApiColtek.vb",
+              "RelativeToolTip": "WindowsApp1\\ApiColtek.vb",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAkwJQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-26T15:49:02.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VerificarAlistamiento.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\VerificarAlistamiento.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\VerificarAlistamiento.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\VerificarAlistamiento.vb",
+              "RelativeToolTip": "WindowsApp1\\VerificarAlistamiento.vb",
+              "ViewState": "AQIAABEBAAAAAAAAAAAkwCoBAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T17:51:16.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BuscarEnListaDePrecios.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\BuscarEnListaDePrecios.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\BuscarEnListaDePrecios.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\BuscarEnListaDePrecios.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\BuscarEnListaDePrecios.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T17:46:11.159Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginColtekForm.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\LoginColtekForm.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\LoginColtekForm.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\LoginColtekForm.vb",
+              "RelativeToolTip": "WindowsApp1\\LoginColtekForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-05T19:36:33.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FacturasDeVentas.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\FacturasDeVentas.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\FacturasDeVentas.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\FacturasDeVentas.vb",
+              "RelativeToolTip": "WindowsApp1\\FacturasDeVentas.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMkDAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:00:57.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BuscarEnListaDePrecios.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\BuscarEnListaDePrecios.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\BuscarEnListaDePrecios.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\BuscarEnListaDePrecios.vb",
+              "RelativeToolTip": "WindowsApp1\\BuscarEnListaDePrecios.vb",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAhwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T17:52:07.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "listadeprecios.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\listadeprecios.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\listadeprecios.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\listadeprecios.vb",
+              "RelativeToolTip": "WindowsApp1\\listadeprecios.vb",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAhwPkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:09:48.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Form1.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:01:27.834Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Form1.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Form1.vb",
+              "RelativeToolTip": "WindowsApp1\\Form1.vb",
+              "ViewState": "AQIAABUAAAAAAAAAAAApwJAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:05:53.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "listadeprecios.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\listadeprecios.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\listadeprecios.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\listadeprecios.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\listadeprecios.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-16T16:47:12.564Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InicioDeSesion.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\InicioDeSesion.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\InicioDeSesion.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\InicioDeSesion.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\InicioDeSesion.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:06:13.231Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Clientes.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Clientes.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Clientes.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Clientes.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\Clientes.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-18T16:11:52.445Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Funciones.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Funciones.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Funciones.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Funciones.vb",
+              "RelativeToolTip": "WindowsApp1\\Funciones.vb",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAswAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T17:22:02.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Clientes.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Clientes.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Clientes.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Clientes.vb",
+              "RelativeToolTip": "WindowsApp1\\Clientes.vb",
+              "ViewState": "AQIAAOgAAAAAAAAAAAAhwP0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-17T18:31:50.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormatoDeAbonosVentas.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\FormatoDeAbonosVentas.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\FormatoDeAbonosVentas.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\FormatoDeAbonosVentas.vb",
+              "RelativeToolTip": "WindowsApp1\\FormatoDeAbonosVentas.vb",
+              "ViewState": "AQIAALIAAAAAAAAAAADgv8MAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:05:35.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FacturasDeVentas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\FacturasDeVentas.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\FacturasDeVentas.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\FacturasDeVentas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\FacturasDeVentas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T17:59:44.308Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InicioDeSesion.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\InicioDeSesion.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\InicioDeSesion.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\InicioDeSesion.vb",
+              "RelativeToolTip": "WindowsApp1\\InicioDeSesion.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:12:55.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Rutasvb.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Rutasvb.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Rutasvb.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Rutasvb.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\Rutasvb.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:11:49.23Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Facturasdecompra.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Facturasdecompra.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Facturasdecompra.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Facturasdecompra.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\Facturasdecompra.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T17:59:39.075Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Estudios.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Estudios.Designer.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Estudios.Designer.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Estudios.Designer.vb",
+              "RelativeToolTip": "WindowsApp1\\Estudios.Designer.vb",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAMwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T21:33:53.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ListaDeAlistarPelidos.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\ListaDeAlistarPelidos.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\ListaDeAlistarPelidos.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\ListaDeAlistarPelidos.vb",
+              "RelativeToolTip": "WindowsApp1\\ListaDeAlistarPelidos.vb",
+              "ViewState": "AQIAAEAAAAAAAAAAAIBJwEMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:13:46.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Facturasdecompra.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Facturasdecompra.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Facturasdecompra.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Facturasdecompra.vb",
+              "RelativeToolTip": "WindowsApp1\\Facturasdecompra.vb",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAMwF8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:00:45.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ListaDePendientes.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\ListaDePendientes.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\ListaDePendientes.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\ListaDePendientes.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\ListaDePendientes.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:08:16.743Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FuncionesExcel.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\FuncionesExcel.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\FuncionesExcel.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\FuncionesExcel.vb",
+              "RelativeToolTip": "WindowsApp1\\FuncionesExcel.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T16:33:18.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Colaboradores.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Colaboradores.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Colaboradores.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Colaboradores.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\Colaboradores.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T17:54:58.811Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NotasPedido.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\NotasPedido.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\NotasPedido.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\NotasPedido.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\NotasPedido.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:09:37.933Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Estudios.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Estudios.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Estudios.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Estudios.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\Estudios.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T17:58:46.668Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BusquedaProLDePrecios.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\BusquedaProLDePrecios.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\BusquedaProLDePrecios.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\BusquedaProLDePrecios.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\BusquedaProLDePrecios.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T17:48:45.049Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AliasPorProducto.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\AliasPorProducto.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\AliasPorProducto.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\AliasPorProducto.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\AliasPorProducto.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:17:52.07Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "factura.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\factura.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\factura.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\factura.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\factura.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T17:59:33.062Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Encriptacion.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Encriptacion.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Encriptacion.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Encriptacion.vb",
+              "RelativeToolTip": "WindowsApp1\\Encriptacion.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:28:40.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Crypt.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Crypt.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Crypt.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Crypt.vb",
+              "RelativeToolTip": "WindowsApp1\\Crypt.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:28:25.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAALsLAAAAAAAAAAAAAMgLAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-04T16:15:01.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AliasPorProducto.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\AliasPorProducto.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\AliasPorProducto.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\AliasPorProducto.vb",
+              "RelativeToolTip": "WindowsApp1\\AliasPorProducto.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:18:01.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Proovedores.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Proovedores.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Proovedores.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Proovedores.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\Proovedores.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:09:42.495Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RutasInternas.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\RutasInternas.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\RutasInternas.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\RutasInternas.vb",
+              "RelativeToolTip": "WindowsApp1\\RutasInternas.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:15:21.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Proovedores.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Proovedores.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Proovedores.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Proovedores.vb",
+              "RelativeToolTip": "WindowsApp1\\Proovedores.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:09:58.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ListaDeAlistarPelidos.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\ListaDeAlistarPelidos.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\ListaDeAlistarPelidos.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\ListaDeAlistarPelidos.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\ListaDeAlistarPelidos.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:08:07.528Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FormatoDeAbonosCompras.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\FormatoDeAbonosCompras.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\FormatoDeAbonosCompras.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\FormatoDeAbonosCompras.vb",
+              "RelativeToolTip": "WindowsApp1\\FormatoDeAbonosCompras.vb",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAUwAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:05:14.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FormatoDeAbonosVentas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\FormatoDeAbonosVentas.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\FormatoDeAbonosVentas.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\FormatoDeAbonosVentas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\FormatoDeAbonosVentas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:05:03.335Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FormatoDeAbonosCompras.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\FormatoDeAbonosCompras.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\FormatoDeAbonosCompras.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\FormatoDeAbonosCompras.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\FormatoDeAbonosCompras.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:04:51.448Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Configuracion.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Configuracion.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Configuracion.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Configuracion.vb",
+              "RelativeToolTip": "WindowsApp1\\Configuracion.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T17:55:16.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Configuracion.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Configuracion.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Configuracion.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\Configuracion.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsApp1\\Configuracion.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T17:55:05.014Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BusquedaProLDePrecios.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\BusquedaProLDePrecios.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\BusquedaProLDePrecios.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\BusquedaProLDePrecios.vb",
+              "RelativeToolTip": "WindowsApp1\\BusquedaProLDePrecios.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T17:53:36.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AliasPorProducto.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\AliasPorProducto.Designer.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\AliasPorProducto.Designer.vb",
+              "ToolTip": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\AliasPorProducto.Designer.vb",
+              "RelativeToolTip": "WindowsApp1\\AliasPorProducto.Designer.vb",
+              "ViewState": "AQIAABoBAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T17:45:12.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

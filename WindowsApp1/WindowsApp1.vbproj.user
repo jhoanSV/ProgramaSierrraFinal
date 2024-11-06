@@ -14,4 +14,72 @@
   <PropertyGroup>
     <EnableSecurityDebugging>false</EnableSecurityDebugging>
   </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AliasPorProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BuscarEnListaDePrecios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BusquedaProLDePrecios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Colaboradores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Configuracion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Estudios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="factura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Facturasdecompra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FacturasDeVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormatoDeAbonosCompras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormatoDeAbonosVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InicioDeSesion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaDeAlistarPelidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaDePendientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="listadeprecios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginColtekForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NotasPedido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Proovedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rutasvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VerificarAlistamiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
 </Project>

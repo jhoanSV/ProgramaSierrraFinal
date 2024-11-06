@@ -250,3 +250,9 @@ C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritor
 C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritorioFinal\ProgramaSierrraFinal\WindowsApp1\obj\Release\WindowsApp1.Rutasvb.resources
 C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritorioFinal\ProgramaSierrraFinal\WindowsApp1\obj\Release\WindowsApp1.InicioDeSesion.resources
 C:\Users\pc\Documents\proyectos empresa\programa interno sierra\ProgramaEscritorioFinal\ProgramaSierrraFinal\WindowsApp1\obj\Release\WindowsApp1.NotasPedido.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\WindowsApp1.exe.config
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\WindowsApp1.exe
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\WindowsApp1.xml
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\WindowsApp1.pdb

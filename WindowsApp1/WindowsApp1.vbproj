@@ -1,19 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
-    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DC0044CA-D64B-4288-8213-B029FFF85F52}</ProjectGuid>
+    <TargetFramework>net8.0-windows7.0</TargetFramework>
     <OutputType>WinExe</OutputType>
     <StartupObject>WindowsApp1.My.MyApplication</StartupObject>
-    <RootNamespace>WindowsApp1</RootNamespace>
-    <AssemblyName>WindowsApp1</AssemblyName>
-    <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <Deterministic>true</Deterministic>
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>C:\Users\pc\Dropbox\Instalador sierra\</PublishUrl>
     <Install>false</Install>
@@ -31,41 +21,25 @@
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
-    <DebugSymbols>true</DebugSymbols>
-    <DebugType>full</DebugType>
-    <DefineDebug>true</DefineDebug>
-    <DefineTrace>true</DefineTrace>
-    <OutputPath>bin\Debug\</OutputPath>
     <DocumentationFile>WindowsApp1.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <RegisterForComInterop>True</RegisterForComInterop>
+    <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
-    <DebugType>pdbonly</DebugType>
     <DefineDebug>false</DefineDebug>
-    <DefineTrace>true</DefineTrace>
-    <Optimize>true</Optimize>
-    <OutputPath>bin\Release\</OutputPath>
     <DocumentationFile>WindowsApp1.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <RegisterForComInterop>True</RegisterForComInterop>
+    <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup>
-    <OptionExplicit>On</OptionExplicit>
-  </PropertyGroup>
-  <PropertyGroup>
-    <OptionCompare>Binary</OptionCompare>
-  </PropertyGroup>
-  <PropertyGroup>
-    <OptionStrict>Off</OptionStrict>
-  </PropertyGroup>
-  <PropertyGroup>
-    <OptionInfer>On</OptionInfer>
-  </PropertyGroup>
-  <PropertyGroup>
-    <ManifestCertificateThumbprint>CC75BEF584FB93418D1B60C47AAB550351DF7996</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>61792722C740D1F22D07056FFC261849EE4B5C7A</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestKeyFile>WindowsApp1_1_TemporaryKey.pfx</ManifestKeyFile>
@@ -78,344 +52,101 @@
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationIcon>LLAVE.ico</ApplicationIcon>
+    <AssemblyTitle>WindowsApp1</AssemblyTitle>
+    <Product>WindowsApp1</Product>
+    <Copyright>Copyright ©  2021</Copyright>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <OptionCompare>Binary</OptionCompare>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
-    <Reference Include="BCrypt.Net, Version=0.1.4141.31969, Culture=neutral, PublicKeyToken=f3bc8f8c31beeb49, processorArchitecture=MSIL">
-      <HintPath>..\packages\BCrypt.Net.0.1.0\lib\net35\BCrypt.Net.dll</HintPath>
-    </Reference>
-    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
-    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
-    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
-    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
-    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="MySql.Data, Version=8.0.30.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
-    <Reference Include="System" />
-    <Reference Include="System.Data" />
-    <Reference Include="System.Deployment" />
-    <Reference Include="System.Drawing" />
-    <Reference Include="System.Web" />
-    <Reference Include="System.Web.Services" />
-    <Reference Include="System.Windows.Forms" />
-    <Reference Include="System.Windows.Forms.DataVisualization" />
-    <Reference Include="System.Xml" />
-    <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="System.Net.Http" />
-  </ItemGroup>
-  <ItemGroup>
-    <Import Include="Microsoft.VisualBasic" />
-    <Import Include="System" />
-    <Import Include="System.Collections" />
-    <Import Include="System.Collections.Generic" />
-    <Import Include="System.Data" />
     <Import Include="System.Drawing" />
-    <Import Include="System.Diagnostics" />
     <Import Include="System.Windows.Forms" />
-    <Import Include="System.Linq" />
-    <Import Include="System.Xml.Linq" />
-    <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AliasPorProducto.Designer.vb">
+    <Compile Update="AliasPorProducto.Designer.vb">
       <DependentUpon>AliasPorProducto.vb</DependentUpon>
     </Compile>
-    <Compile Include="AliasPorProducto.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BuscarEnListaDePrecios.Designer.vb">
+    <Compile Update="BuscarEnListaDePrecios.Designer.vb">
       <DependentUpon>BuscarEnListaDePrecios.vb</DependentUpon>
     </Compile>
-    <Compile Include="BuscarEnListaDePrecios.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="BusquedaProLDePrecios.Designer.vb">
+    <Compile Update="BusquedaProLDePrecios.Designer.vb">
       <DependentUpon>BusquedaProLDePrecios.vb</DependentUpon>
     </Compile>
-    <Compile Include="BusquedaProLDePrecios.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Clientes.Designer.vb">
+    <Compile Update="Clientes.Designer.vb">
       <DependentUpon>Clientes.vb</DependentUpon>
     </Compile>
-    <Compile Include="Clientes.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Colaboradores.Designer.vb">
+    <Compile Update="Colaboradores.Designer.vb">
       <DependentUpon>Colaboradores.vb</DependentUpon>
     </Compile>
-    <Compile Include="Colaboradores.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Conexiondb.vb" />
-    <Compile Include="Configuracion.Designer.vb">
+    <Compile Update="Configuracion.Designer.vb">
       <DependentUpon>Configuracion.vb</DependentUpon>
     </Compile>
-    <Compile Include="Configuracion.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Consultas.vb" />
-    <Compile Include="Crypt.vb" />
-    <Compile Include="DGVaExcel.vb" />
-    <Compile Include="Encriptacion.vb" />
-    <Compile Include="Estudios.Designer.vb">
+    <Compile Update="Estudios.Designer.vb">
       <DependentUpon>Estudios.vb</DependentUpon>
     </Compile>
-    <Compile Include="Estudios.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="factura.Designer.vb">
+    <Compile Update="factura.Designer.vb">
       <DependentUpon>factura.vb</DependentUpon>
     </Compile>
-    <Compile Include="factura.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Facturasdecompra.Designer.vb">
+    <Compile Update="Facturasdecompra.Designer.vb">
       <DependentUpon>Facturasdecompra.vb</DependentUpon>
     </Compile>
-    <Compile Include="Facturasdecompra.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FacturasDeVentas.Designer.vb">
+    <Compile Update="FacturasDeVentas.Designer.vb">
       <DependentUpon>FacturasDeVentas.vb</DependentUpon>
     </Compile>
-    <Compile Include="FacturasDeVentas.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form1.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form1.Designer.vb">
-      <DependentUpon>Form1.vb</DependentUpon>
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormatoDeAbonosCompras.Designer.vb">
+    <Compile Update="FormatoDeAbonosCompras.Designer.vb">
       <DependentUpon>FormatoDeAbonosCompras.vb</DependentUpon>
     </Compile>
-    <Compile Include="FormatoDeAbonosCompras.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormatoDeAbonosVentas.Designer.vb">
+    <Compile Update="FormatoDeAbonosVentas.Designer.vb">
       <DependentUpon>FormatoDeAbonosVentas.vb</DependentUpon>
     </Compile>
-    <Compile Include="FormatoDeAbonosVentas.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Funciones.vb" />
-    <Compile Include="FuncionesDeMySql.vb" />
-    <Compile Include="FuncionesExcel.vb" />
-    <Compile Include="InicioDeSesion.Designer.vb">
+    <Compile Update="InicioDeSesion.Designer.vb">
       <DependentUpon>InicioDeSesion.vb</DependentUpon>
     </Compile>
-    <Compile Include="InicioDeSesion.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ListaDeAlistarPelidos.Designer.vb">
+    <Compile Update="ListaDeAlistarPelidos.Designer.vb">
       <DependentUpon>ListaDeAlistarPelidos.vb</DependentUpon>
     </Compile>
-    <Compile Include="ListaDeAlistarPelidos.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ListaDePendientes.Designer.vb">
+    <Compile Update="ListaDePendientes.Designer.vb">
       <DependentUpon>ListaDePendientes.vb</DependentUpon>
     </Compile>
-    <Compile Include="ListaDePendientes.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="listadeprecios.Designer.vb">
+    <Compile Update="listadeprecios.Designer.vb">
       <DependentUpon>listadeprecios.vb</DependentUpon>
     </Compile>
-    <Compile Include="listadeprecios.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="My Project\AssemblyInfo.vb" />
-    <Compile Include="My Project\Application.Designer.vb">
+    <Compile Update="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
       <DependentUpon>Application.myapp</DependentUpon>
     </Compile>
-    <Compile Include="My Project\Resources.Designer.vb">
+    <Compile Update="My Project\Resources.Designer.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="My Project\Settings.Designer.vb">
+    <Compile Update="My Project\Settings.Designer.vb">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="NotasPedido.Designer.vb">
+    <Compile Update="NotasPedido.Designer.vb">
       <DependentUpon>NotasPedido.vb</DependentUpon>
     </Compile>
-    <Compile Include="NotasPedido.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Proovedores.Designer.vb">
+    <Compile Update="Proovedores.Designer.vb">
       <DependentUpon>Proovedores.vb</DependentUpon>
     </Compile>
-    <Compile Include="Proovedores.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="RutasInternas.vb" />
-    <Compile Include="Rutasvb.Designer.vb">
+    <Compile Update="Rutasvb.Designer.vb">
       <DependentUpon>Rutasvb.vb</DependentUpon>
     </Compile>
-    <Compile Include="Rutasvb.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="VerificarAlistamiento.Designer.vb">
+    <Compile Update="VerificarAlistamiento.Designer.vb">
       <DependentUpon>VerificarAlistamiento.vb</DependentUpon>
-    </Compile>
-    <Compile Include="VerificarAlistamiento.vb">
-      <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="AliasPorProducto.resx">
-      <DependentUpon>AliasPorProducto.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BuscarEnListaDePrecios.resx">
-      <DependentUpon>BuscarEnListaDePrecios.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="BusquedaProLDePrecios.resx">
-      <DependentUpon>BusquedaProLDePrecios.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Clientes.resx">
-      <DependentUpon>Clientes.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Colaboradores.resx">
-      <DependentUpon>Colaboradores.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Configuracion.resx">
-      <DependentUpon>Configuracion.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Estudios.resx">
-      <DependentUpon>Estudios.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="factura.resx">
-      <DependentUpon>factura.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Facturasdecompra.resx">
-      <DependentUpon>Facturasdecompra.vb</DependentUpon>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FacturasDeVentas.resx">
-      <DependentUpon>FacturasDeVentas.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormatoDeAbonosCompras.resx">
-      <DependentUpon>FormatoDeAbonosCompras.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormatoDeAbonosVentas.resx">
-      <DependentUpon>FormatoDeAbonosVentas.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="InicioDeSesion.resx">
-      <DependentUpon>InicioDeSesion.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ListaDeAlistarPelidos.resx">
-      <DependentUpon>ListaDeAlistarPelidos.vb</DependentUpon>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ListaDePendientes.resx">
-      <DependentUpon>ListaDePendientes.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="listadeprecios.resx">
-      <DependentUpon>listadeprecios.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="My Project\Resources.resx">
-      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
-      <CustomToolNamespace>My.Resources</CustomToolNamespace>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="NotasPedido.resx">
-      <DependentUpon>NotasPedido.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Proovedores.resx">
-      <DependentUpon>Proovedores.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Rutasvb.resx">
-      <DependentUpon>Rutasvb.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="VerificarAlistamiento.resx">
-      <DependentUpon>VerificarAlistamiento.vb</DependentUpon>
-    </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="My Project\Application.myapp">
+    <None Update="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
     </None>
-    <None Include="My Project\Settings.settings">
-      <Generator>SettingsSingleFileGenerator</Generator>
-      <CustomToolNamespace>My</CustomToolNamespace>
-      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
-    </None>
-    <None Include="App.config" />
-    <None Include="packages.config" />
-    <None Include="WindowsApp1_1_TemporaryKey.pfx" />
-    <None Include="WindowsApp1_TemporaryKey.pfx" />
-  </ItemGroup>
-  <ItemGroup>
-    <COMReference Include="Microsoft.Office.Core">
-      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
-      <VersionMajor>2</VersionMajor>
-      <VersionMinor>8</VersionMinor>
-      <Lcid>0</Lcid>
-      <WrapperTool>primary</WrapperTool>
-      <Isolated>False</Isolated>
-      <EmbedInteropTypes>True</EmbedInteropTypes>
-    </COMReference>
-    <COMReference Include="Microsoft.Office.Interop.Excel">
-      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
-      <VersionMajor>1</VersionMajor>
-      <VersionMinor>9</VersionMinor>
-      <Lcid>0</Lcid>
-      <WrapperTool>primary</WrapperTool>
-      <Isolated>False</Isolated>
-      <EmbedInteropTypes>True</EmbedInteropTypes>
-    </COMReference>
-    <COMReference Include="VBIDE">
-      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
-      <VersionMajor>5</VersionMajor>
-      <VersionMinor>3</VersionMinor>
-      <Lcid>0</Lcid>
-      <WrapperTool>primary</WrapperTool>
-      <Isolated>False</Isolated>
-      <EmbedInteropTypes>True</EmbedInteropTypes>
-    </COMReference>
   </ItemGroup>
   <ItemGroup>
     <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="imagenes\LOGO_FACTURAS.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="imagenes\fondo_de_agua.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="imagenes\fondo.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="imagenes\escaneo.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="imagenes\facturas 5.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="imagenes\anulado.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="imagenes\fondo2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="imagenes\fondo3.png" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
@@ -431,10 +162,21 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="LLAVE.ico" />
-    <None Include="Resources\Marca de agua sivar 90.png" />
-    <None Include="Resources\Marca de agua sivar.png" />
-    <None Include="Resources\imagen factura sivar.jpeg" />
-    <None Include="Resources\imagen factura sierra.jpeg" />
   </ItemGroup>
-  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="Microsoft.Office.Interop.Excel" Version="15.0.4795.1001" />
+    <PackageReference Include="Microsoft.Win32.SystemEvents" Version="9.0.0-rc.2.24473.5" />
+    <PackageReference Include="MySql.Data" Version="9.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="9.0.0-rc.2.24473.5" />
+    <PackageReference Include="System.Data.DataSetExtensions" Version="4.6.0-preview3.19128.7" />
+    <PackageReference Include="Microsoft.AspNetCore.SystemWebAdapters" Version="1.4.0" />
+    <PackageReference Include="System.Data.Odbc" Version="9.0.0-rc.2.24473.5" />
+    <PackageReference Include="System.Data.OleDb" Version="9.0.0-rc.2.24473.5" />
+    <PackageReference Include="System.Windows.Forms.DataVisualization" Version="1.0.0-prerelease.20110.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="CrystalReport1.vb" />
+  </ItemGroup>
 </Project>
