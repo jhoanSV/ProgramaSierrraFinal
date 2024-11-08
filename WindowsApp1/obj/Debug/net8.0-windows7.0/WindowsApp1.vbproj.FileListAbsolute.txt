@@ -41,7 +41,6 @@ C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\bin\Debu
 C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\bin\Debug\net8.0-windows7.0\K4os.Compression.LZ4.Streams.dll
 C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\bin\Debug\net8.0-windows7.0\K4os.Hash.xxHash.dll
 C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\bin\Debug\net8.0-windows7.0\Microsoft.AspNetCore.SystemWebAdapters.dll
-C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\bin\Debug\net8.0-windows7.0\Microsoft.Office.Interop.Excel.dll
 C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\bin\Debug\net8.0-windows7.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\bin\Debug\net8.0-windows7.0\MySql.Data.dll
 C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\bin\Debug\net8.0-windows7.0\System.Configuration.ConfigurationManager.dll
@@ -82,3 +81,5 @@ C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Debu
 C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Debug\net8.0-windows7.0\ref\WindowsApp1.dll
 C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
 C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Debug\net8.0-windows7.0\WindowsApp1.LoginColtekForm.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Debug\net8.0-windows7.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Debug\net8.0-windows7.0\WindowsApp1.vbproj.ResolveComReference.cache

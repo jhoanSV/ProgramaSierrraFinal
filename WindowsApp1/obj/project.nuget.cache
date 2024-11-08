@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "B6BtGzVlps+O7a8q5WlgubRS8AJqapP/HNKhcZ75+0AJWOY6sFXGuvOT5TQ7oS73M8GgvesezD8vTbUOBHOupg==",
+  "dgSpecHash": "4HnCAvIFSJPuWID4B7SMPMHqAdvoll1S5u66v3MjDoHaF/QUF4lTL/I7PectPD3pe57NE48ImyyZN4ft4RmkdQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\pc\\Documents\\ProyectosEmpresa\\ProgramaSierrraFinal\\WindowsApp1\\WindowsApp1.vbproj",
   "expectedPackageFiles": [
@@ -13,7 +13,6 @@
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.systemwebadapters\\1.4.0\\microsoft.aspnetcore.systemwebadapters.1.4.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\pc\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0-rc.2.24473.5\\microsoft.win32.systemevents.9.0.0-rc.2.24473.5.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\mysql.data\\9.0.0\\mysql.data.9.0.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",

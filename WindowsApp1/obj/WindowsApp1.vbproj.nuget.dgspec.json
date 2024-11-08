@@ -57,10 +57,6 @@
               "target": "Package",
               "version": "[1.4.0, )"
             },
-            "Microsoft.Office.Interop.Excel": {
-              "target": "Package",
-              "version": "[15.0.4795.1001, )"
-            },
             "Microsoft.Win32.SystemEvents": {
               "target": "Package",
               "version": "[9.0.0-rc.2.24473.5, )"
