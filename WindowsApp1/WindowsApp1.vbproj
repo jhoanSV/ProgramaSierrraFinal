@@ -30,6 +30,7 @@
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
     <RegisterForComInterop>True</RegisterForComInterop>
     <PlatformTarget>AnyCPU</PlatformTarget>
+    <OutputPath>C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion</OutputPath>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DefineDebug>false</DefineDebug>
@@ -37,6 +38,7 @@
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
     <RegisterForComInterop>True</RegisterForComInterop>
     <PlatformTarget>AnyCPU</PlatformTarget>
+    <OutputPath>C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion</OutputPath>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>61792722C740D1F22D07056FFC261849EE4B5C7A</ManifestCertificateThumbprint>

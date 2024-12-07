@@ -1,0 +1,15 @@
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\WindowsApp1.pdb
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\WindowsApp1.dll.config
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\D3DCompiler_47_cor3.dll
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\PenImc_cor3.dll
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\PresentationNative_cor3.dll
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\vcruntime140_cor3.dll
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\wpfgfx_cor3.dll
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\aspnetcorev2_inprocess.dll
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\comerr64.dll
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\gssapi64.dll
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\k5sprt64.dll
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\krb5_64.dll
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\krbcc64.dll
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\WindowsApp1.xml
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\WindowsApp1.exe

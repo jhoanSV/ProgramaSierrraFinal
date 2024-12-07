@@ -369,13 +369,13 @@
       <dsig:DigestValue>iQsdYFPbBEgOvEN+Da18lAVZOA9oo7SxIR1Au2q2pRI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="WindowsApp1.dll" size="26556416">
+  <file name="WindowsApp1.dll" size="26558464">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>RALiwV21Vx9JESxf58uG17LfFE3oHgkaX8zKeiG8gys=</dsig:DigestValue>
+      <dsig:DigestValue>xuJ51tM6cgg90us7MoP9ONzCsmTjoxQotJ8aBtnas18=</dsig:DigestValue>
     </hash>
   </file>
   <file name="WindowsApp1.dll.config" size="183">
