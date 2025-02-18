@@ -1,0 +1,49 @@
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\net8.0-windows7.0\win-x86\WindowsApp1.exe
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\net8.0-windows7.0\win-x86\WindowsApp1.dll.config
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\net8.0-windows7.0\win-x86\WindowsApp1.dll.manifest
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\net8.0-windows7.0\win-x86\WindowsApp1.application
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\net8.0-windows7.0\win-x86\WindowsApp1.deps.json
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\net8.0-windows7.0\win-x86\WindowsApp1.runtimeconfig.json
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\net8.0-windows7.0\win-x86\WindowsApp1.dll
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\net8.0-windows7.0\win-x86\WindowsApp1.pdb
+C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\net8.0-windows7.0\win-x86\WindowsApp1.xml
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.vbproj.ResolveComReference.cache
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.AliasPorProducto.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.BuscarEnListaDePrecios.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.BusquedaProLDePrecios.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.Clientes.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.Colaboradores.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.Configuracion.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.Estudios.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.factura.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.Facturasdecompra.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.FacturasDeVentas.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.Form1.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.FormatoDeAbonosCompras.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.FormatoDeAbonosVentas.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.InicioDeSesion.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.ListaDeAlistarPelidos.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.ListaDePendientes.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.Listadeprecios.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.LoginColtekForm.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.Resources.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.NotasPedido.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.Proovedores.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.Rutasvb.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.VerificarAlistamiento.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.sourcelink.json
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.dll.manifest
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.application
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsA.0BF81A2F.Up2Date
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.dll
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\refint\WindowsApp1.dll
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.xml
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.pdb
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.genruntimeconfig.cache
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\ref\WindowsApp1.dll
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\win-x86\WindowsApp1.CreditNote.resources

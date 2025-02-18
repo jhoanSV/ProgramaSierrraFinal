@@ -87,3 +87,5 @@ C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\net8.0-windows7.0\Wind
 C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\net8.0-windows7.0\WindowsApp1.dll
 C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\net8.0-windows7.0\WindowsApp1.pdb
 C:\Users\pc\Dropbox\Instalador sierra\intentoDeIntalacion\net8.0-windows7.0\WindowsApp1.xml
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\WindowsApp1.CreditNote.resources
+C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\obj\Release\net8.0-windows7.0\WindowsApp1.VerNotaCredito.resources

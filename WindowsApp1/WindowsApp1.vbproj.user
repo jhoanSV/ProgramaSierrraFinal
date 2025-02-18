@@ -13,7 +13,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <EnableSecurityDebugging>false</EnableSecurityDebugging>
-    <_LastSelectedProfileId>C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\My Project\PublishProfiles\FolderProfile1.pubxml</_LastSelectedProfileId>
+    <_LastSelectedProfileId>C:\Users\pc\Documents\ProyectosEmpresa\ProgramaSierrraFinal\WindowsApp1\My Project\PublishProfiles\FolderProfile4.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
   <ItemGroup>
     <Compile Update="AliasPorProducto.vb">
@@ -32,6 +32,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Configuracion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreditNote.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Estudios.vb">
@@ -80,6 +83,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="VerificarAlistamiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VerNotaCredito.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
